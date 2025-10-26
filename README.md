@@ -1,8 +1,6 @@
-# 🛠 Backend 2025 alap
+# 🛠 Rendelő admin
 
 Ez egy **Laravel 11** alapú backend alkalmazás.  
-A cél egy biztonságos, moduláris és könnyen bővíthető backend környezet.
-
 ---
 
 ## 🚀 Tech Stack
