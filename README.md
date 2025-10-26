@@ -54,11 +54,11 @@ docker compose exec app composer install
 docker compose exec app php artisan key:generate
 ```
 
-## web elérés
+## Web elérés
 ```bash
 http://localhost:8881
 ```
-## adatbázis elérés
+## Adatbázis elérés
 ```bash
 http://localhost:8882
 ```
